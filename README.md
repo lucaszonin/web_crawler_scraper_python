@@ -1,5 +1,5 @@
 # Web_crawler_Farmacias_Popular
-# Selenium , Pandas, BeautifulSoup and Supervisor
+# Selenium , Pandas, Scrapy , BeautifulSoup and Supervisor
 
 Web crawler / scraper para acessar as farmácias popular, logar, inputar as datas, extrair todos os dados, tratar os dados, verificar se já existe o dado na nossa base e se não existe, inserir. 
 
